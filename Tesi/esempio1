@@ -1,0 +1,30 @@
+@relation china
+
+@attribute ID numeric
+@attribute AFP numeric
+@attribute Input numeric
+@attribute Output numeric
+@attribute Enquiry numeric
+@attribute File numeric
+@attribute Interface numeric
+@attribute Added numeric
+@attribute Changed numeric
+@attribute Deleted numeric
+@attribute PDR_AFP numeric
+@attribute PDR_UFP numeric
+@attribute NPDR_AFP numeric
+@attribute NPDU_UFP numeric
+@attribute Resource numeric
+@attribute Dev.Type numeric
+@attribute Duration numeric
+@attribute N_effort numeric
+@attribute Effort numeric
+
+@data
+1,1587,774,260,340,128,0,1502,0,0,4.7,5,4.7,5,4,0,4,7490,7490
+2,260,9,4,3,193,41,51,138,61,16,16.6,16,16.6,2,0,17,4150,4150
+3,152,25,33,28,42,35,163,0,0,4.4,4.1,4.4,4.1,1,0,9,668,668
+4,252,151,28,8,39,0,69,153,4,12.8,14.3,15.5,17.3,1,0,4,3901,3238
+5,292,93,0,194,20,0,0,307,0,10.3,9.8,12.4,11.7,1,0,13,3607,2994
+6,83,63,0,24,0,0,0,87,0,16.1,15.3,19.3,18.5,1,0,4,1606,1333
+7,79,24,0,23,30,0,0,77,0,20.3,20.9,24.5,25.1,1,0,6,1936,1607

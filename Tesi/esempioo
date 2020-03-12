@@ -1,0 +1,14 @@
+@relation china
+
+@attribute ID numeric
+@attribute AFP numeric
+@attribute Input numeric
+@attribute Output numeric
+@attribute Ciaooo numeric
+
+@data
+1,1587,774,260,340
+2,260,9,4,3
+3,152,25,33,55
+4,252,151,28,8
+5,292,93,0,194
